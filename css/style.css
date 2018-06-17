@@ -1,6 +1,9 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #423409;
+  color: #08081A;
+  font-size: 2em;
+  font-color: #08081A
+  line-height: 125%;
 }
 
 nav {
